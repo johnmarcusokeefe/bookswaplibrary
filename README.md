@@ -1,2 +1,2 @@
 # bookswaplibrary
-[Model](/bookswaplibrary/docs/images/community-library-model.png)
+[Model](/bookswaplibrary/docs/images/bookswap-library.png)
