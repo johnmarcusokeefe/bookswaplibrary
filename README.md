@@ -1,2 +1,2 @@
 # bookswaplibrary
-+(/bookswaplibrary/docs/images/bookswap-library.png)
+[Library Data Model](/bookswaplibrary/docs/images/bookswap-library.png)
